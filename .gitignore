@@ -26,18 +26,18 @@
 
 /.metadata/
 /RemoteSystemsTempFiles/
-/bin/
+bin/
 *.properties
 *.ini
 *.xml
-faculdade/.metadata/.plugins/org.eclipse.ui.intro/introstate
 *.ser
 *.setup
 *.dat
-faculdade/.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache
 *.txt
-faculdade/.metadata/.plugins/org.eclipse.jdt.core/externalFilesCache
-faculdade/.metadata/.plugins/org.eclipse.jdt.core/assumedExternalFilesCache
 *.xmi
 *.resources
 faculdade/.metadata/.lock
+
+.classpath
+.project
+.settings/
