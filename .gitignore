@@ -40,3 +40,4 @@ faculdade/.metadata/.plugins/org.eclipse.jdt.core/externalFilesCache
 faculdade/.metadata/.plugins/org.eclipse.jdt.core/assumedExternalFilesCache
 *.xmi
 *.resources
+faculdade/.metadata/.lock
