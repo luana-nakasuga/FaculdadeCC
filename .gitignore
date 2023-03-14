@@ -41,3 +41,6 @@ faculdade/.metadata/.lock
 .classpath
 .project
 .settings/
+faculdade/.metadata/.plugins/org.eclipse.ui.intro/introstate
+faculdade/.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache
+faculdade/.metadata/.plugins/org.eclipse.jdt.core/assumedExternalFilesCache
