@@ -4,5 +4,4 @@ O projeto consiste em analisar e filtrar os dados de COVID-19 no estado do Espí
 Para utilizar a base de dados do COVID-19 faça o download [aqui](https://bi.s3.es.gov.br/covid19/MICRODADOS.csv) e insira no folder 'DataSet' do repositório.
 
 As bibliotecas utilizadas na execução do projeto foram:
-pandas
-sqlalchemy
+pandas e sqlalchemy
